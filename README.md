@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm on a journey to build scalable applications, d
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ## ✨ Featured Projects  
-🔹 **[Portfolio](#)** - A modern, responsive portfolio showcasing my skills, projects, and experience in software development. Built with React, Tailwind CSS, and NextJS, it features an interactive UI, dynamic content management, and optimized performance. Designed to highlight my technical expertise while ensuring an intuitive user experience.
+🔹 **[Portfolio](https://sebas-d-dev.github.io/portfolio-v2/)** - A modern, responsive portfolio showcasing my skills, projects, and experience in software development. Built with React, Tailwind CSS, and NextJS, it features an interactive UI, dynamic content management, and optimized performance. Designed to highlight my technical expertise while ensuring an intuitive user experience.
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-torres-cs/)
