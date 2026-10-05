@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Apps, tools, and interactive worlds</title>
+  <desc id="desc">An open landscape of flowing paths, orbital lines, a wireframe cube, and a small code symbol, representing a collection of projects and experiments.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d172a"/>
+      <stop offset="1" stop-color="#162336"/>
+    </linearGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#90dcc8"/>
+      <stop offset=".55" stop-color="#9cc8f4"/>
+      <stop offset="1" stop-color="#c6b9f6"/>
+    </linearGradient>
+    <linearGradient id="path" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b9a9e6" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#9bc7ed" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#8fd9c6" stop-opacity=".15"/>
+    </linearGradient>
+    <pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#c5d5e8" fill-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1280" height="300" rx="18" fill="url(#dots)"/>
+  <g fill="none" stroke="url(#path)" stroke-width="1.5">
+    <path d="M649 319C712 254 736 157 856 177S1049 308 1122 212S1166 75 1288 54"/>
+    <path d="M697 321C760 256 754 125 874 145S1067 276 1140 180S1184 43 1306 22"/>
+    <path d="M745 323C808 258 772 93 892 113S1085 244 1158 148S1202 11 1324-10"/>
+    <path d="M793 325C856 260 790 61 910 81S1103 212 1176 116S1220-21 1342-42"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="50" y="58" fill="#b9c7db" font-size="15" font-weight="700" letter-spacing="3">PROJECTS &amp; EXPERIMENTS</text>
+    <text x="47" y="126" fill="#f2f5fd" font-size="48" font-weight="700" letter-spacing="-1.2">Apps. Tools.</text>
+    <text x="47" y="182" fill="url(#spectrum)" font-size="48" font-weight="700" letter-spacing="-1.2">Interactive worlds.</text>
+    <text x="50" y="244" fill="#bdcce0" font-size="19" letter-spacing="1">WEB  /  DATA  /  DESKTOP  /  3D</text>
+  </g>
+  <g transform="translate(954 66)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="92" cy="90" rx="135" ry="51" transform="rotate(-28 92 90)" stroke="#93c9e2" stroke-opacity=".5" stroke-width="1.5"/>
+    <ellipse cx="92" cy="90" rx="109" ry="92" transform="rotate(29 92 90)" stroke="#abade6" stroke-opacity=".28" stroke-width="1.5"/>
+    <path d="M92 28L143 59V120L92 151L41 120V59ZM41 59L92 90L143 59M92 90V151" stroke="#a4d4e6" stroke-width="2.5"/>
+    <path d="M92 28V90M41 120L92 90L143 120" stroke="#a4d4e6" stroke-opacity=".28" stroke-width="1.5" stroke-dasharray="4 6"/>
+    <circle cx="-16" cy="141" r="5" fill="#9fe2ca" stroke="none"/>
+    <circle cx="206" cy="32" r="4" fill="#cbbaf5" stroke="none"/>
+    <circle cx="92" cy="90" r="4" fill="#c2dcf7" stroke="none"/>
+  </g>
+  <g transform="translate(782 55)" fill="none" stroke="#aecbe2" stroke-opacity=".65" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M14 0L0 12L14 24M49 0L63 12L49 24M37-4L26 28"/>
+  </g>
+</svg>
