@@ -10,11 +10,11 @@ My personal projects take a few different directions: full-stack web apps, deskt
 
 ## Personal projects
 
-### Caverna D Sebas
+### 3D Portfolio
 
 *In progress · 3D engineering portfolio*
 
-An interactive portfolio set inside an underground engineering facility. Hosted on ChatGPT Sites and still in development, Caverna D Sebas explores a spatial way of presenting my work.
+An interactive portfolio set inside an underground engineering facility. Hosted on ChatGPT Sites and still in development, 3D Portfolio explores a spatial way of presenting my work.
 
 ### portfolio-v2
 
