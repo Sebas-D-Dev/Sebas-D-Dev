@@ -1,51 +1,63 @@
-# 👋 Hi, I'm Sebastian!  
+# Hey, I’m Seb.
 
-### 🚀 IT Intern | Full-Stack Developer in Progress | Aspiring Software Engineer
+**Exploring ideas through code, design, and a lot of experimentation.**
 
-Welcome to my GitHub profile! I'm on a journey to build scalable applications, design efficient algorithms, and refine my technical skills to become a skilled developer. 
+My personal projects take a few different directions: full-stack web apps, desktop tools, data workflows, and 3D portfolio experiments. Some are ready to explore, while others are prototypes or ideas I'm still developing.
 
-## 🔥 About Me  
-- 💻 **Proficient in Python, Flask, and database management (SQLite, MongoDB, MySQL)**
+[Portfolio](https://sebas-d-dev.github.io/portfolio-v2/) · [LinkedIn](https://www.linkedin.com/in/sebastian-torres-cs/) · [GitHub projects](https://github.com/Sebas-D-Dev?tab=repositories)
 
-- 🎨 **Designing aesthetically pleasing projects, like a photo gallery app (Firebase, React, Node)**
+![Apps, tools, and interactive worlds: a collection of projects and experiments.](./assets/profile-header.svg)
 
-- 🏗️ **Implementing SOLID principles and design patterns for scalable applications**
+## Personal projects
 
-- ⚡ **Developing interactive web applications with a focus on user experience**
+### 3D Portfolio
 
-## 🛠️ Tech Stack  
+*In progress · 3D engineering portfolio*
 
-### Languages & Scripting  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+An interactive portfolio set inside an underground engineering facility. Hosted on ChatGPT Sites and still in development, 3D Portfolio explores a spatial way of presenting my work.
 
-### Backend Development  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+### Portfolio v2
 
-### Frontend Development  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+*Ongoing personal portfolio · Web development*
 
-### Database & Storage  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+My web portfolio for projects, experience, and technology interests, built with React, Next.js, and TypeScript. It brings together a project showcase, experience timeline, animated sections, and an RSS-based news reader.
 
-### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+[Visit the site](https://sebas-d-dev.github.io/portfolio-v2/) · [Explore the code](https://github.com/Sebas-D-Dev/portfolio-v2)
 
-## ✨ Featured Projects  
-🔹 **[Portfolio](https://sebas-d-dev.github.io/portfolio-v2/)** - A modern, responsive portfolio showcasing my skills, projects, and experience in software development. Built with React, Tailwind CSS, and NextJS, it features an interactive UI, dynamic content management, and optimized performance. Designed to highlight my technical expertise while ensuring an intuitive user experience.
+### Nexus
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-torres-cs/)
+*Early prototype · Desktop tooling*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebas-D-Dev)
+A customizable on-screen control-surface concept for organizing apps, shortcuts, and workflows. The work currently spans a landing-page concept and an Electron, React, and Vite application scaffold.
+
+[Nexus Controls concept](https://github.com/Sebas-D-Dev/nexus-controls) · [Electron prototype](https://github.com/Sebas-D-Dev/nexus-electron-vite)
+
+### Directory Structure Generator
+
+*Prototype · Developer tools*
+
+An experiment in planning and organizing project directory structures through workspaces. The prototype includes workspace and gallery APIs, plus a Gemini text-generation endpoint.
+
+[Explore the code](https://github.com/Sebas-D-Dev/directory-structure-generator)
+
+### Stack Inventory
+
+*Inventory management · Full-stack development*
+
+An inventory application covering products, vendors, purchasing, role-based views, and analytics. Built with Next.js, TypeScript, PostgreSQL, and Prisma, with an experimental Gemini-backed inventory assistant.
+
+[Explore the code](https://github.com/Sebas-D-Dev/stack-inventory) · [Open the app](https://stack-inventory.vercel.app/) (sign-in required)
+
+## Tools I use
+
+- **Languages:** Python, JavaScript, TypeScript, SQL, HTML, and CSS
+- **Web applications:** React, Next.js, Flask, Node.js, and Tailwind CSS
+- **Data:** PostgreSQL, Prisma, and Supabase
+- **Interfaces & experiments:** Framer Motion, Electron, Vite, and the Gemini API
+- **Development & delivery:** Git, GitHub Actions, and GitHub Pages
+
+## Experience alongside my projects
+
+My professional experience includes Python and full-stack work on MrSureThing, UI/UX prototyping at Local Fiber, and IT and programming support at Florida Atlantic University.
+
+More about my background is on my [portfolio](https://sebas-d-dev.github.io/portfolio-v2/) and [LinkedIn](https://www.linkedin.com/in/sebastian-torres-cs/).
